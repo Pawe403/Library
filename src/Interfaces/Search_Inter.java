@@ -7,10 +7,11 @@ import Objects.Category;
 
 public interface Search_Inter {
 
-	public List<Book> SearhcAllBooks();
+	public List<Book> SearchAllBooks();
 
 	public List<Category> SearchCategories();
 
 	public void AddBook();
 
+	public void DeleteBook();
 }

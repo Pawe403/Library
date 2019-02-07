@@ -30,7 +30,7 @@ public class Book {
 		}
 
 		public Builder setIdCategory(Long id_category) {
-			this.id_category = id;
+			this.id_category = id_category;
 			return this;
 		}
 
