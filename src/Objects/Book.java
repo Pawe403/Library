@@ -77,8 +77,11 @@ public class Book {
 
 	@Override
 	public String toString() {
-		return "Book Id = " + id + ", Category id = " + id_category + ", Title = " + title + ", Category = " + category
-				+ ", Author = " + author;
+		return " Book Id = " + id + 
+				" Category id = " + id_category + 
+				" Title = " + title + 
+				" Category = " + category +
+				" Author = " + author + "\n" ;
 	}
 
 	

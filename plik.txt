@@ -1,0 +1,2 @@
+ Book Id = 1 Category id = 1 Title = PRZEGLAD SPROTOWY Category = --- Author = Pawe³
+ Book Id = 4 Category id = 2 Title = fds Category = sdf Author = dsf
